@@ -36,9 +36,7 @@
 
 ###
 
-<picture>
  <img src="https://raw.githubusercontent.com/husenazs/husenazs/output/snake.svg" alt="Snake animation" />
-</picture>
 
 ###
 
