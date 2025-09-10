@@ -1,62 +1,71 @@
-<h1 align="center">Hey 👋, I'm Husen Azis</h1>
-<h3 align="center">Web Programmer | PHP • Go • Java • React • Next.js</h3>
+<h1 align="center">✨ Welcome to My Space ✨</h1>
+<h3 align="center">Hi, I'm <b>Husen Azis</b> — Web Programmer & Backend Enthusiast</h3>
 
 ---
 
-### 🏆 GitHub Stats
+## 🚀 About Me
+- 💻 Currently working at **EasySoft Indonesia** as a Web Programmer  
+- 🛠️ Main stacks: **PHP, Go, Java, React, Next.js**  
+- 📊 Focused on building **scalable backend systems** and interactive UIs  
+- 🎯 Goal: To keep growing as a full-stack developer  
+
+---
+
+## 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husenazs&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husenazs&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=husenazs&theme=dracula&hide_border=true" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=husenazs&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.IO" />
-</div>
-
----
-
-### 🌐 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/husenazs"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
-  <a href="mailto:husenazs@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
-  <a href="https://instagram.com/husenazs"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /></a>
-  <a href="https://discordapp.com/users/husenazs"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
-</div>
-
----
-
-### 🐍 Snake Animation
+## 🧰 Tech Toolbox
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/husenazs/husenazs/output/snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/husenazs/husenazs/output/snake-dark.svg#gh-dark-mode-only)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)  
 
 </div>
 
 ---
 
-### 👁️ Visitors
+## 🌐 Connect With Me
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=husenazs.husenazs&left_color=purple&right_color=black" />
+  <a href="https://linkedin.com/in/husenazs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:husenazs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/husenazs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/husenazs">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🐍 Snake Animation
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/husenazs/husenazs/output/snake.svg#gh-light-mode-only)  
+![Snake animation](https://raw.githubusercontent.com/husenazs/husenazs/output/snake-dark.svg#gh-dark-mode-only)  
+
+</div>
+
+---
+
+## 👁️ Profile Visitors
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=husenazs.husenazs&left_color=blueviolet&right_color=black" />
 </div>
