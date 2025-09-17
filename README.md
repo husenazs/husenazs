@@ -1,5 +1,5 @@
 <h1 align="center">✨ Welcome to My Space ✨</h1>
-<h3 align="center">Hi, I'm <b>Husen Azis</b> — Web Programmer & Backend Enthusiast</h3>
+<h3 align="center">Hi, I'm <b>Husen Azis</b> — Web Developer </h3>
 
 ---
 
