@@ -39,10 +39,10 @@
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/husenazs">
+  <a href="https://linkedin.com/in/husen-aziz-b393aa1b4">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:husenazs@gmail.com">
+  <a href="mailto:husenazis.ha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/husenazs">
